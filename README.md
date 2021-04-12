@@ -1,1 +1,1 @@
-# Marshall-2550XD-Silver-Jubilee
+# Marshall 2550XD Silver Jubilee

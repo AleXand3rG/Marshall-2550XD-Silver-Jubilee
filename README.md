@@ -1,1 +1,12 @@
 # Marshall 2550XD Silver Jubilee
+
+## EN
+It is a project of a guitar tube amplifier, which is a copy of the iconic Marshall 2550 Silver Jubilee, additionally modified by me with a built-in Reverb effect. The original schematic of the amplifier can be viewed <a href = "https://www.thetubestore.com/lib/thetubestore/schematics/Marshall/Marshall-25-Anniversary-Silver-Jubilee-25-50W-2550-Schematic.pdf"> here </a>.
+
+My own schematic of the amplifier can be found in file <a href = "https://github.com/AleXand3rG/Marshall-2550XD-Silver-Jubilee/blob/main/AJMG%202550XD%20Silver%20Jubilee.pdf"> AJMG 2550XD Silver Jubilee.pdf</a>. While modifying the original schematic (the Reverb effect mod), I followed <a href = "https://guitar.com/guides/diy-workshop/build-tube-spring-reverb-unit-amplifier/"> this article </a>. The project also includes a PCB layout of described amplifier, developed by me in the Altium Designer program.
+
+
+## PL
+Jest to projekt gitarowego wzmacniacza lampowego, będącego kopią kultowego urządzenia Marshall 2550 Silver Jubilee, zmodyfikowanego dodatkowo przeze mnie o wbudowany efekt Reverb. Oryginalny schemat wzmacniacza można obejrzeć <a href = "https://www.thetubestore.com/lib/thetubestore/schematics/Marshall/Marshall-25-Anniversary-Silver-Jubilee-25-50W-2550-Schematic.pdf">tutaj</a>.
+
+W pliku <a href = "https://github.com/AleXand3rG/Marshall-2550XD-Silver-Jubilee/blob/main/AJMG%202550XD%20Silver%20Jubilee.pdf">AJMG 2550XD Silver Jubilee.pdf</a>  znajduje się schemat wzmacniacza, wykonany przeze mnie w programie Altium Designer. Podczas wprowadzania modyfikacji (efektu Reverb) wzorowałem się na <a href = "https://guitar.com/guides/diy-workshop/build-tube-spring-reverb-unit-amplifier/">tym artykule</a>. Projekt zawiera również layout płytki PCB do wykonania opisywanego wzmacniacza, opracowany przeze mnie w programie Altium Designer.

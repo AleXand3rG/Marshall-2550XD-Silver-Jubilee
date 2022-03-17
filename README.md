@@ -14,4 +14,4 @@ Wykonany przeze mnie schemat wzmacniacza znajduje się w pliku <a href = "https:
 
 ## License
 
-- © Copyright 2018-2021 Aleksander Grzybowski.
+- © Copyright 2018-2022 Aleksander Grzybowski.
